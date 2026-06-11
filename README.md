@@ -7,7 +7,7 @@
 ## 
 
 <div align="center">
-  <p>placeholder</p>
+  <p>Sou estudante de Desenvolvimento de Sistemas no SESI/SENAI, com interesse em programação, desenvolvimento web e tecnologia. Atualmente estudo Python, lógica de programação, banco de dados e desenvolvimento de aplicações, buscando constantemente aprimorar minhas habilidades por meio de projetos e aprendizado contínuo. Estou aberto a oportunidades de estágio, networking e novos desafios na área de tecnologia.</p>
 </div>
 
 ##
