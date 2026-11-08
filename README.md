@@ -26,7 +26,6 @@
   <br>
 
   <div style="display: flex; justify-content: center; gap: 30px;">
-    [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=enzowakida)](https://github.com/stats-organization/github-stats-extended)
-    <img src="https://github-readme-stats.vercel.app/api?username=enzowakida&show_icons=true&theme=midnight-purple&rank_icon=github" style="height: 160px;" />
+    <img src="(https://github-stats-extended.vercel.app/api?username=enzowakida)](https://github.com/stats-organization/github-stats-extended)" style="height: 160px;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzowakida&layout=compact&theme=midnight-purple" style="height: 160px;" />
   </div>
