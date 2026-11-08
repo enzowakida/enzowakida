@@ -27,6 +27,6 @@
   <br>
 
   <div style="display: flex; justify-content: center; gap: 30px;">
-    <img src="https://github-stats-extended.vercel.app/api?username=enzowakida&show_icons=true&theme=rose&rank_icon=github" style="height: 160px;" />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=enzowakida&layout=compact&theme=rose" style="height: 160px;" />
+    <img src="https://github-stats-extended.vercel.app/api?username=enzowakida&show_icons=true&theme=dark&rank_icon=github" style="height: 160px;" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=enzowakida&layout=compact&theme=dark" style="height: 160px;" />
   </div>
